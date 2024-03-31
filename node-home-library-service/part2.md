@@ -16,7 +16,7 @@
 - [ ] `Tracks` data is stored in PostgreSQL database and ORM interacts with the database to manipulate data: `20/20`
 - [ ] `Favorites` data is stored in PostgreSQL database and ORM interacts with the database to manipulate data: `20/20`
 
-### Basic Scope `0/130`
+### Advanced Scope `0/130`
 
 #### Containerization, Docker `0/50`
 
@@ -43,3 +43,5 @@
 - [ ] No separate development branch: `-40`
 - [ ] Less than 3 commits in the development branch, not taking into account commits, making changes only in `Readme.md` or similar files (`tsconfig.json`, `.gitignore`, `.prettierrc.json`, etc.): `-20`
 - [ ] Errors either on `npm run lint` on the basis of the local config or for compilation errors on the basis of the local tsconfig (`-10` for each): `-360`
+
+### Total: `0/360 points`
